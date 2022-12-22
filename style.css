@@ -142,6 +142,7 @@
 }
 .service-container{
     margin-top: 50px;
+    gap: 10px;
 }
 .service-1{
 width: 300px;
@@ -155,7 +156,6 @@ gap: 0;
 }
 .price-btn {
     color: red;
-    font-size: 18px;
 }
 
 .price {
@@ -164,8 +164,7 @@ gap: 0;
 }
 
 .title4 {
-    font-size: 25px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .batch{
     position: relative;
